@@ -24,6 +24,10 @@ This project models a complex use case for an **equipment service record managem
 - Wireframe.cc (UI Mockup)
 - Microsoft Word (Specification Writing)
 
+## Class Diagram
+<img width="468" height="308" alt="class_diagram" src="https://github.com/user-attachments/assets/60924f07-ecd8-49c7-868c-97f00a6962b9" />
+
+
 ## 🔗 Wireframe
 [Click here to view the UI Mockup](https://wireframe.cc/JOyROp)
 
