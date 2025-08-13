@@ -1,6 +1,6 @@
 # Equipment Service Record System – Use Case Modeling Project
 
-This project models a complex use case for an **equipment service record management system**. It demonstrates **system analysis**, **requirements engineering**, and **UML-based modeling** using **Visual Paradigm**.
+This project models a complex use case for an **equipment service record management system**. It demonstrates **system analysis**, and **UML-based modeling** using **Visual Paradigm**.
 
 ---
 
